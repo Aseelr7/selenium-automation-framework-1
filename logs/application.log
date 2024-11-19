@@ -1,0 +1,15 @@
+2024-11-18 22:08:33 ERROR ConfigManager:39 - Failed to load Configurationjava.io.FileNotFoundException: src\main\resources\configdev-config.properties (The system cannot find the file specified)
+2024-11-18 22:09:41 ERROR ConfigManager:39 - Failed to load Configurationjava.io.FileNotFoundException: src\main\resources\configdev-config.properties (The system cannot find the file specified)
+2024-11-18 22:13:28 ERROR ConfigManager:39 - Failed to load Configurationjava.io.FileNotFoundException: src\main\resources\configdev-config.properties (The system cannot find the file specified)
+2024-11-19 04:09:09 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-19 04:09:14 INFO  BaseTest:20 - Started Test With URL {}https://www.facebook.com/
+2024-11-19 04:09:14 INFO  BaseTest:13 - Verifying that the browser is opened and navigating to the correct url
+2024-11-19 04:09:57 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-19 04:10:00 INFO  BaseTest:20 - Started Test With URL {}https://www.facebook.com/
+2024-11-19 04:10:00 INFO  BaseTest:13 - Verifying that the browser is opened and navigating to the correct url
+2024-11-19 04:10:27 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-19 04:10:30 INFO  BaseTest:20 - Started Test With URL {}https://www.facebook.com/
+2024-11-19 04:10:30 INFO  BaseTest:13 - Verifying that the browser is opened and navigating to the correct url
+2024-11-19 04:10:54 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-19 04:10:58 INFO  BaseTest:20 - Started Test With URL {}https://www.facebook.com/
+2024-11-19 04:10:58 INFO  BaseTest:13 - Verifying that the browser is opened and navigating to the correct url
