@@ -13,3 +13,21 @@
 2024-11-19 04:10:54 INFO  ConfigManager:36 - Configuration loaded for environment DEV
 2024-11-19 04:10:58 INFO  BaseTest:20 - Started Test With URL {}https://www.facebook.com/
 2024-11-19 04:10:58 INFO  BaseTest:13 - Verifying that the browser is opened and navigating to the correct url
+2024-11-19 19:05:07 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-19 19:05:12 INFO  BaseTest:20 - Started Test With URL {}https://www.facebook.com/
+2024-11-19 19:05:12 INFO  BaseTest:13 - Verifying that the browser is opened and navigating to the correct url
+2024-11-19 21:57:13 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-19 21:57:16 INFO  BaseTest:20 - Started Test With URL {}https://www.facebook.com/
+2024-11-24 00:00:46 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-24 00:00:49 INFO  Base:20 - Started the test with CHROME and URL of https://www.facebook.com/
+2024-11-24 00:00:49 INFO  Base:13 - Verifying that the browser is opened and navigating to the correct url
+2024-11-24 00:40:15 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-24 00:40:20 INFO  BaseTest:20 - Started Test With URL {}https://www.facebook.com/
+2024-11-24 00:59:15 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-24 00:59:18 INFO  BaseTest:20 - Started Test With URL {}https://www.facebook.com/
+2024-11-24 00:59:49 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-24 00:59:54 INFO  BaseTest:20 - Started Test With URL {}https://www.instagram.com/
+2024-11-24 01:00:32 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-24 01:00:35 INFO  BaseTest:20 - Started Test With URL {}https://www.instagram.com/
+2024-11-24 01:02:21 INFO  ConfigManager:36 - Configuration loaded for environment DEV
+2024-11-24 01:02:24 INFO  BaseTest:20 - Started Test With URL {}https://www.instagram.com/
